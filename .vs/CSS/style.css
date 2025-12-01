@@ -1,0 +1,61 @@
+/* Selector por ID */
+#titulo {
+    background-color: #08366b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Selector por clase */
+.descripcion {
+    width: 80%;
+    margin: 20px auto;
+    background: #e9f5ff;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+/* Subtítulo */
+.subtitulo {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10%;
+}
+
+/* Lista con estilo */
+.lista-razones {
+    background: #b28ff1;
+    width: 60%;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 10px auto;
+}
+
+/* Tabla */
+.tabla {
+    width: 80%;
+    margin: 25px auto;
+    border-collapse: collapse;
+    background: #ffffff;
+}
+
+.tabla th {
+    background-color: #1483ea;
+    padding: 10px;
+}
+
+.tabla td {
+    border: 1px solid #131212;
+    padding: 10px;
+}
+
+/* Imagen con width y height */
+.imagen {
+    display: block;
+    width: 400px;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 10px;
+}
