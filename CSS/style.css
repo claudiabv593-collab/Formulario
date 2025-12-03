@@ -51,6 +51,9 @@
     padding: 10px;
 }
 
+.spanq {
+    color: #ff5733;
+}
 /* Imagen con width y height */
 .imagen {
     display: block;
